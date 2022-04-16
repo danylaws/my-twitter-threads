@@ -30,8 +30,8 @@ Feel free to make suggestions, I am open to any advice! You can reach me on [Twi
 <details>
   <summary><b>AWS threads</b></summary>
   
-  - [How to send emails with Amzon SES 💌](https://twitter.com/danylaws/status/1498290480995614728)
-  - [What do I need to begin my AWS cloud journey ?](https://twitter.com/danylaws/status/1476934447882768402)
+  - [How to send emails with Amazon SES 💌](https://twitter.com/danylaws/status/1498290480995614728)
+  - [What do I need to begin my AWS journey in 2022 ?](https://twitter.com/danylaws/status/1476934447882768402)
   
 </details>
 
