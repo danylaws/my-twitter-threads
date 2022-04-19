@@ -14,7 +14,7 @@ Feel free to make suggestions, I am open to any advice! You can reach me on [Twi
   - [Performance comparison : List Vs Dictionary Part I 🥊](https://twitter.com/danylaws/status/1506987303733968900)
   - [What is AutoMapper ?](https://twitter.com/danylaws/status/1506280583361609729)
   - [String comparison in C# : From performance perspective 🚀](https://twitter.com/danylaws/status/1504381170347294727)
-  - [The SortedSet<T> data structure](https://twitter.com/danylaws/status/1497228121707368449)
+  - [The SortedSet\<T> data structure](https://twitter.com/danylaws/status/1497228121707368449)
   - [LINQ : Do you know the let keyword ? 😲](https://twitter.com/danylaws/status/1490688224825597956)
   - [How to eliminates duplicates from a list in C# ? Distinct vs HashSet](https://twitter.com/danylaws/status/1488440041722589185)
   - [Operator Overloading in C# : A concrete use case](https://twitter.com/danylaws/status/1486353294796730378)
