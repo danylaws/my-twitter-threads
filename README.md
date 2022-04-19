@@ -22,7 +22,7 @@ Feel free to make suggestions, I am open to any advice! You can reach me on [Twi
   - [ASP.NET Core Dependency Injection refactoring tip](https://twitter.com/danylaws/status/1463507537769205760)
   - [Entity Framework Core refactoring tip](https://twitter.com/danylaws/status/1461650328705806344)
   - [ASP.NET Core Tag Helpers](https://twitter.com/danylaws/status/1456594553843195916)
-  - [Some ASP.NET Core performance best practices](https://twitter.com/danylaws/status/1450765902681628674)
+  - [Some ASP.NET Core performance best practices 🚀](https://twitter.com/danylaws/status/1450765902681628674)
   - [Unit Testing : what is the ExpectedExceptionAttribute class ?](https://twitter.com/danylaws/status/1413132940356112386) 
   
 </details>
