@@ -1,6 +1,6 @@
 # my-twitter-threads 🧵
 
-I've published several twitter threads since the beginning of the year. As they become less visible over time, The goal here is to gather them, and to make the easily reachable. They are mostly about **C#** and **AWS**.
+I've published several twitter threads since the beginning of the year. As they become less visible over time, The goal here is to gather them, and to make the easily reachable. They are mostly about **C#** and **AWS**. I suggest to not hesitate to look at the comments below the threads. There are many useful contributions hidden in them 💎
 
 Feel free to make suggestions, I am open to any advice! You can reach me on [Twitter](https://twitter.com/danylaws) or [LinkedIn](https://linkedin.com/in/danylaws).
 
