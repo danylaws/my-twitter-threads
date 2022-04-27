@@ -10,7 +10,8 @@ Feel free to make suggestions, I am open to any advice! You can reach me on [Twi
 
 <details>
   <summary><b>C# Threads</b></summary>
-
+  
+  - [Mutable Vs Immutable : a C# example with String and StringBuilder](https://twitter.com/danylaws/status/1519248178205401090)
   - [Performance comparison : List Vs Dictionary Part I 🥊](https://twitter.com/danylaws/status/1506987303733968900)
   - [What is AutoMapper ?](https://twitter.com/danylaws/status/1506280583361609729)
   - [String comparison in C# : From performance perspective 🚀](https://twitter.com/danylaws/status/1504381170347294727)
