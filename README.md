@@ -11,6 +11,7 @@ Feel free to make suggestions, I am open to any advice! You can reach me on [Twi
 <details>
   <summary><b>C# Threads</b></summary>
   
+  - [EF Core : Find Vs SingleOrDefault, what is the best ?](https://twitter.com/danylaws/status/1524284247049216000)
   - [What is the "in" parameter modifier ?](https://twitter.com/danylaws/status/1519940712439205890) 
   - [Mutable Vs Immutable : a C# example with String and StringBuilder](https://twitter.com/danylaws/status/1519248178205401090)
   - [Performance comparison : List Vs Dictionary Part I 🥊](https://twitter.com/danylaws/status/1506987303733968900)
