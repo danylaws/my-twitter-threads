@@ -34,7 +34,7 @@ Feel free to make suggestions, I am open to any advice! You can reach me on [Twi
 <details>
   <summary><b>AWS threads</b></summary>
   
-  - [What is AWS Elastic Beanstalk ?](https://twitter.com/danylaws/status/1544243881545441283)
+  - [What is AWS Elastic Beanstalk ?](https://twitter.com/danylaws/status/1544243862054780929)
   - [The AWS Free Tier plan : What is it ? 🤔](https://twitter.com/danylaws/status/1526887671053930513)
   - [How to send emails with Amazon SES 💌](https://twitter.com/danylaws/status/1498290480995614728)
   - [What do I need to begin my AWS journey in 2022 ?](https://twitter.com/danylaws/status/1476934447882768402)
