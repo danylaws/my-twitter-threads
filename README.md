@@ -11,6 +11,7 @@ Feel free to make suggestions, I am open to any advice! You can reach me on [Twi
 <details>
   <summary><b>C# Threads</b></summary>
   
+  - [EF Core: Owned Eentity Type, what is it ?](https://twitter.com/danylaws/status/1645714031662039045)
   - [C# IEnumerable : Where Vs OfType<T>, what is the best ?](https://twitter.com/danylaws/status/1582301265404391424)
   - [EF Core : Find Vs SingleOrDefault, what is the best ?](https://twitter.com/danylaws/status/1524284247049216000)
   - [What is the "in" parameter modifier ?](https://twitter.com/danylaws/status/1519940712439205890) 
