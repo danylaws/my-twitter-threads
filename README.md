@@ -11,7 +11,7 @@ Feel free to make suggestions, I am open to any advice! You can reach me on [Twi
 <details>
   <summary><b>C# Threads</b></summary>
   
-  - [EF Core: Owned Eentity Type, what is it ?](https://twitter.com/danylaws/status/1645714031662039045)
+  - [EF Core: Owned Entity Type, what is it ?](https://twitter.com/danylaws/status/1645714031662039045)
   - [C# IEnumerable : Where Vs OfType<T>, what is the best ?](https://twitter.com/danylaws/status/1582301265404391424)
   - [EF Core : Find Vs SingleOrDefault, what is the best ?](https://twitter.com/danylaws/status/1524284247049216000)
   - [What is the "in" parameter modifier ?](https://twitter.com/danylaws/status/1519940712439205890) 
@@ -22,7 +22,7 @@ Feel free to make suggestions, I am open to any advice! You can reach me on [Twi
   - [What is Kestrel ? 🌐](https://twitter.com/danylaws/status/1503296443913838598)
   - [The SortedSet\<T> data structure](https://twitter.com/danylaws/status/1497228121707368449)
   - [LINQ : Do you know the let keyword ? 😲](https://twitter.com/danylaws/status/1490688224825597956)
-  - [How to eliminates duplicates from a list in C# ? Distinct vs HashSet](https://twitter.com/danylaws/status/1488440041722589185)
+  - [How to eliminate duplicates from a list in C# ? Distinct vs HashSet](https://twitter.com/danylaws/status/1488440041722589185)
   - [Operator Overloading in C# : A concrete use case](https://twitter.com/danylaws/status/1486353294796730378)
   - [Casting in C# : Best Practices](https://twitter.com/danylaws/status/1485551324196491267)
   - [ASP.NET Core Dependency Injection refactoring tip](https://twitter.com/danylaws/status/1463507537769205760)
